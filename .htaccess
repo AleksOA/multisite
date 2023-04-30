@@ -31,4 +31,11 @@ RewriteRule . index.php [L]
 
 
 
+# ===========================
+RewriteRule ^wp-signup\.php - [R=404,L]
+RewriteRule ^wp-activate\.php - [R=404,L]
+# ===========================
+
+
+
 # END WordPress

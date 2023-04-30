@@ -4,7 +4,51 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c287c0a5-e40b-4e0e-b5ef-fe96b57c15ac" name="Changes" comment="" />
+    <list default="true" id="c287c0a5-e40b-4e0e-b5ef-fe96b57c15ac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/multisite/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/multisite/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/multisite/template_pages/home_template.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet-frontend.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/img/logo-a-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/img/logo-full-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/akismet.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/changelog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-admin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-cli.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-rest-api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-widget.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/activate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/connect-jp.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/enter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/get.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/notice.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/predefined.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/setup.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/start.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/stats.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/title.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/wrapper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/hello.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/miltisite/404.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/multisite/404.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/miltisite/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/multisite/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/miltisite/assets/js/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/multisite/assets/js/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/miltisite/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/multisite/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/miltisite/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/miltisite/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/miltisite/inc/halpers.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/multisite/inc/halpers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/miltisite/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/multisite/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/miltisite/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/multisite/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +56,9 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -26,16 +73,22 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/xampp/htdocs/kapps",
+    "last_opened_file_path": "C:/xampp/htdocs/multisite/wp-content/mu-plugins/multi_network/signup",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.stylelint": "",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\multisite\wp-content\mu-plugins\multi_network\signup" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,10 +98,63 @@
       <option name="presentableId" value="Default" />
       <updated>1681479792157</updated>
       <workItem from="1681479793961" duration="9137000" />
+      <workItem from="1681555500818" duration="99564000" />
+      <workItem from="1682318779424" duration="84407000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/wp-content/mu-plugins/multi_network/signup/wp-signup.php</url>
+          <line>197</line>
+          <properties>
+            <option name="className" value="" />
+            <option name="methodName" value="\show_user_form" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/wp-content/mu-plugins/multi_network/signup/wp-signup.php</url>
+          <line>251</line>
+          <properties>
+            <option name="className" value="" />
+            <option name="methodName" value="\validate_user_form" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/wp-content/mu-plugins/multi_network/signup/wp-signup.php</url>
+          <line>516</line>
+          <properties>
+            <option name="className" value="" />
+            <option name="methodName" value="\signup_user" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/wp-content/mu-plugins/multi_network/signup/wp-signup.php</url>
+          <line>597</line>
+          <properties>
+            <option name="className" value="" />
+            <option name="methodName" value="\validate_user_signup" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/wp-content/mu-plugins/multi_network/signup/wp-signup.php</url>
+          <line>628</line>
+          <properties>
+            <option name="className" value="" />
+            <option name="methodName" value="\confirm_user_signup" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
